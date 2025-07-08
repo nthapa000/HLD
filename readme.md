@@ -6,7 +6,7 @@ This repository documents my structured journey through **High-Level Design (HLD
 
 ---
 
-##  Syllabus Overview
+##  Overview
 
 The learning path is divided into **3 comprehensive modules**, progressing from foundational principles to advanced system designs.
 
